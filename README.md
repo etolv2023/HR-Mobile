@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MNaguibEtolv/HR-Mobile/tags">
+  <a href="https://github.com/etolv2023/HR-Mobile/tags">
     <img alt="Download from Tags" src="https://img.shields.io/badge/Download-App%20From%20Tags-0A66C2?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/MNaguibEtolv/HR-Mobile/releases/latest">
+  <a href="https://github.com/etolv2023/HR-Mobile/releases/latest">
     <img alt="Latest Release" src="https://img.shields.io/github/v/release/MNaguibEtolv/HR-Mobile?style=for-the-badge" />
   </a>
 </p>
